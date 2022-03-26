@@ -4,7 +4,7 @@
           "name": "Smart Bluetooth",
           "brand":"Gadget Planet",
           "price":1002,
-          "img":"./images/Bluetooth Speaker.png"
+          "img":"./images/wireless mouse.png"
       },
       {
           "id":8171002,
@@ -81,6 +81,6 @@
           "name": "Real Mouse",
           "brand":"Gadget Planet",
           "price":420,
-          "img":"./images/wireless mouse.png"
+          "img":"./images/Bluetooth Speaker.png"
       }
     ]

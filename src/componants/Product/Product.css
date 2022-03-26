@@ -18,7 +18,7 @@
     border-radius:15px;
 }
 .product-btn{
-    background-color: coral;
+    background-color:rgb(252, 204, 114);
     border: none;
     position: absolute;
     bottom: 0;
@@ -28,6 +28,9 @@
     display: flex;
     align-items: center;
     padding: 5px;
+}
+.product-btn:hover{
+    background-color: orange;
 }
 .product-btn p{
     align-items: center;
