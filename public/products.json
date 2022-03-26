@@ -1,86 +1,86 @@
 [
       {
           "id":8171001,
-          "name": "Product one",
+          "name": "Smart Bluetooth",
           "brand":"Gadget Planet",
           "price":1002,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/Bluetooth Speaker.png"
       },
       {
           "id":8171002,
-          "name": "Product one",
+          "name": "Planet Laptop",
           "brand":"Gadget Planet",
           "price":1500,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/Dell Laptops (1).png"
       },
       {
           "id":8171003,
-          "name": "Product one",
+          "name": "Drone",
           "brand":"Gadget Planet",
           "price":500,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/Drone Cam.png"
       },
       {
           "id":8171004,
-          "name": "Product one",
+          "name": "Smart DSLR",
           "brand":"Gadget Planet",
           "price":700,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/dslr cam.png"
       },
       {
           "id":8171005,
-          "name": "Product one",
+          "name": "Gadget Special Pad",
           "brand":"Gadget Planet",
           "price":670,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/iPad.png"
       },
       {
           "id":8171006,
-          "name": "Product one",
+          "name": "2+ Phone",
           "brand":"Gadget Planet",
           "price":540,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/iphone.png"
       },
       {
           "id":8171007,
-          "name": "Product one",
+          "name": "Digital Watch",
           "brand":"Gadget Planet",
           "price":390,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/iwatch.png"
       },
       {
           "id":8171008,
-          "name": "Product one",
+          "name": "Joypad",
           "brand":"Gadget Planet",
           "price":1060,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/Joypad.png"
       },
       {
           "id":8171009,
-          "name": "Product one",
+          "name": "Smart Monitor",
           "brand":"Gadget Planet",
           "price":590,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/Monitors.png"
       },
       {
           "id":81710010,
-          "name": "Product one",
+          "name": "Hero Adapter",
           "brand":"Gadget Planet",
           "price":1800,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/power adapters.png"
       },
       {
           "id":81710011,
-          "name": "Product one",
+          "name": "Energy Bank",
           "brand":"Gadget Planet",
           "price":130,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/Power Banks.png"
       },
       {
           "id":81710012,
-          "name": "Product one",
+          "name": "Real Mouse",
           "brand":"Gadget Planet",
           "price":420,
-          "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+          "img":"./images/wireless mouse.png"
       }
     ]

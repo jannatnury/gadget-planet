@@ -1,5 +1,7 @@
 import React from 'react';
 import './Product.css'
+import { BsCartPlusFill} from "react-icons/fa";
+
 
 const Product = (props) => {
     // destrucring of products details
@@ -11,10 +13,10 @@ const Product = (props) => {
                 <h3>Name:{name}</h3>
                 <p>Price: ${price}</p>
                 <p>Manufacturer:{brand}</p>
-                <button className='product-btn'>
-                    <p>Add to cart</p>
-                </button>
             </div>
+            <button className='product-btn'>
+                <p>Add to cart</p>
+            </button>
         </div>
     );
 }

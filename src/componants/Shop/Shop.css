@@ -12,8 +12,9 @@ div h1{
 .products-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 40px;
+    gap: 30px;
     margin-top: 10px;
+    margin-left: 40px;
 }
 /* Cart container styless */
 .cart-container{

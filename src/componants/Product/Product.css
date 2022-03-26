@@ -23,4 +23,12 @@
     position: absolute;
     bottom: 0;
     width: 100%;
+    margin-top: 45px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.product-btn p{
+    align-items: center;
 }
