@@ -1,20 +1,22 @@
+/* Heading styles */
 div h1{
     color: orange;
     margin: 0;
 }
+/* Shop container styles */
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+/* Products container styles */
 .products-container{
-    background-color: aquamarine;
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+    margin-top: 10px;
 }
-.products-container img{
-    height: 286px;
-    width: 286px;
-}
+/* Cart container styless */
 .cart-container{
     background-color: bisque;
+    margin-top: 10px;
 }

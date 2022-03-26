@@ -1,3 +1,26 @@
-div h1{
-    color: orange;
+.product{
+    height: 450px;
+    width: 300px;
+    background-color:gainsboro;
+    position: relative;
+    border-radius: 15px;
+}
+.product-details h3,p{
+    margin: 5px;
+    display: flex; 
+    align-items: flex-start;
+    margin-left: 20px;
+}
+/*  image styles */
+.product img{
+    height: 286px;
+    width: 286px;
+    border-radius:15px;
+}
+.product-btn{
+    background-color: coral;
+    border: none;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
