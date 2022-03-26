@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+div h2{
+    color: red;
+    margin-left: 50px;
+}
+.header a{
+    color: bisque;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.header-anchor{
+    margin-right: 50px;
+}
+.header a:hover{
+    color: orange;
+}
