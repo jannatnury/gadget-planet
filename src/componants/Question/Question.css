@@ -1,0 +1,25 @@
+.qa-container h2{
+    color: black;
+    margin-bottom:10px;
+}
+.qa-container h3{
+    color: red;
+    margin: 5px;
+}
+.qa-container span{
+    color: black;
+}
+.ans{
+    color: green;
+}
+.answers{
+    background-color: rgb(241, 237, 237);
+    padding: 15px 10px;
+    height: auto;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border: 3px solid orange;
+    border-radius: 20px;
+}
