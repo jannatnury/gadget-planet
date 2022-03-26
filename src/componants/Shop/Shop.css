@@ -1,9 +1,19 @@
+div h1{
+    color: orange;
+    margin: 0;
+}
 .shop-container{
     display: grid;
-    grid-template-columns: 4fr,1fr;
+    grid-template-columns: 4fr 1fr;
 }
 .products-container{
     background-color: aquamarine;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.products-container img{
+    height: 286px;
+    width: 286px;
 }
 .cart-container{
     background-color: bisque;
