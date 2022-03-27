@@ -1,7 +1,7 @@
 .product{
     height: 450px;
     width: 300px;
-    background-color:rgb(253, 250, 250);
+    background-color:rgb(231, 222, 222);
     position: relative;
     border-radius: 15px;
 }
@@ -18,7 +18,7 @@
     border-radius:15px;
 }
 .product-btn{
-    background-color:rgb(252, 204, 114);
+    background-color:rgb(253, 221, 78);
     border: none;
     position: absolute;
     bottom: 0;
@@ -26,12 +26,16 @@
     margin-top: 45px;
     border-radius: 15px;
     display: flex;
+    justify-content: center;
     align-items: center;
-    padding: 5px;
+    padding: 10px;
 }
 .product-btn:hover{
     background-color: orange;
 }
 .product-btn p{
     align-items: center;
+}
+.btn-text{
+    margin-right: 10px;
 }

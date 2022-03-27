@@ -44,8 +44,14 @@ div h1{
     }
 }
 /*Media quary Responsive for large devices*/
+/* Large devices */
 @media screen and (min-width:992) {
     .products-container{
         grid-template-columns:repeat(3,1fr);
+    }
+}
+@media screen and (max-width:678) {
+    .products-container{
+        grid-template-columns:1fr;
     }
 }

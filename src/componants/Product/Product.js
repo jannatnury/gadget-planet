@@ -15,7 +15,7 @@ const Product = ({cartHandler,product}) => {
                 <p>Manufacturer:{brand}</p>
             </div>
             <button onClick={()=>cartHandler(product)} className='product-btn'>
-                <p>Add to cart<BsCartPlusFill /></p>
+                <p><span className='btn-text'>Add to cart</span><BsCartPlusFill /></p>
             </button>
         </div>
     );
