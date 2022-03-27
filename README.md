@@ -1,5 +1,4 @@
-# gadgets
-
+# Gadget Planet
 #### Website: https://gadget-planet-by-nury.netlify.app/
 
 ## Description
