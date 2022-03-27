@@ -1,7 +1,6 @@
 import React from 'react';
 import './Product.css'
-import { BsCartPlusFill } from "react-icons/bs";
-
+import { BsCartPlusFill } from "react-icons/bs"
 
 const Product = ({cartHandler,product}) => {
     // destrucring
