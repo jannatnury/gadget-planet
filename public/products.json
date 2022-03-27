@@ -1,7 +1,7 @@
 [
       {
           "id":8171001,
-          "name": "Smart Bluetooth",
+          "name":"Wireless Mouse",
           "brand":"Gadget Planet",
           "price":1002,
           "img":"./images/wireless mouse.png"
@@ -78,7 +78,7 @@
       },
       {
           "id":81710012,
-          "name": "Real Mouse",
+          "name":"Smart Bluetooth",
           "brand":"Gadget Planet",
           "price":420,
           "img":"./images/Bluetooth Speaker.png"

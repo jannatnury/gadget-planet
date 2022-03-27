@@ -1,11 +1,11 @@
 import React from 'react';
 import './Product.css'
-import { BsCartPlusFill} from "react-icons/bs";
+import { BsCartPlusFill } from "react-icons/bs";
 
 
-const Product = (props) => {
-    // destrucring of products details
-    const { name, img, price, brand } = props.product;
+const Product = ({cartHandler,product}) => {
+    // destrucring
+    const { name, img, price, brand } =product;
     return (
         <div className='product'>
             <img src={img} alt="" />
@@ -14,8 +14,8 @@ const Product = (props) => {
                 <p>Price: ${price}</p>
                 <p>Manufacturer:{brand}</p>
             </div>
-            <button className='product-btn'>
-                <p>Add to cart<BsCartPlusFill/></p>
+            <button onClick={()=>cartHandler(product)} className='product-btn'>
+                <p>Add to cart<BsCartPlusFill /></p>
             </button>
         </div>
     );
